@@ -3,7 +3,12 @@
   "displayName": "WordGuard",
   "description": "A lightweight VS Code extension that detects and warns about profanity and toxic language in real time.",
   "version": "0.0.1",
+  "publisher": "AnarLabs",
   "icon": "assets/Picture.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnarDevStudio/WordGuard"
+  },
   "engines": {
     "vscode": "^1.120.0"
   },
