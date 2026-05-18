@@ -1,8 +1,9 @@
 {
   "name": "wordguard",
   "displayName": "WordGuard",
-  "description": "",
+  "description": "A lightweight VS Code extension that detects and warns about profanity and toxic language in real time.",
   "version": "0.0.1",
+  "icon": "assets/Picture.png",
   "engines": {
     "vscode": "^1.120.0"
   },

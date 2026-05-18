@@ -106,7 +106,7 @@ function scanDocument(document) {
             diagnostics.push(
                 new vscode.Diagnostic(
                     range,
-                    `WordGuard: uygunsuz kelime → "${word}"`,
+                    `WordGuard: Bad Word → "${word}"`,
                     vscode.DiagnosticSeverity.Warning
                 )
             );
